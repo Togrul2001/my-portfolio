@@ -1,0 +1,16 @@
+{
+    "portfolio": [
+        {
+            "images": "ecommerce1.jpeg", 
+            "title": "E-commerce website.",
+            "description": "React",
+            "url": "https://github.com/Togrul2001/react_ecommerce1"
+        },
+        {
+            "images": "dashboard.jpeg",
+            "title": "Dashboard",
+            "description": "React, JSX, Antd",
+            "url": "https://github.com/Togrul2001/dashboard"
+        }
+    ]
+}
